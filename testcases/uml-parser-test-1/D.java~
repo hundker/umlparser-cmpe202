@@ -1,0 +1,11 @@
+ 	 
+
+public class D {
+ 
+	private A a;
+
+	public String getA() { return this.a ; }
+    	public void   setA(String value) { this.a = value ; }
+	 
+}
+ 
